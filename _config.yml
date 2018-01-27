@@ -1,3 +1,7 @@
 remote_theme: mmistakes/minimal-mistakes
 title: Jekyll
 include: ["_pages"]
+author:
+  name: "Jekyll Tutorial"
+  avatar: "https://jekyllrb.com/img/logo-2x.png"
+  bio: "ChickTech Workshop"
